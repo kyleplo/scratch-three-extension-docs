@@ -1,2 +1,1 @@
-# scratch-three-extension-docs
-The documentation for Scratch 3.0.
+See the [wiki](https://github.com/kyleplo/scratch-three-extension-docs/wiki)
